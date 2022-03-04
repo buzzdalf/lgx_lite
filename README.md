@@ -11,3 +11,5 @@ Attach Body4 to the filament exit path on the lgx lite.
 Attach either Body6 or Body13 to the side of the extruder.
 Slide the extruder assembly onto the 2020 mount.
 Tighten up with an m3 screw.
+
+See the photos in the pictures forlder for visual aids.
