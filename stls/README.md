@@ -1,2 +1,1 @@
-stl files
-Print one of each.  Choose either body6 or body13, depending on the desired orientation.
+Print one of each stl file.  Choose either body6 or body13, depending on the desired orientation.
